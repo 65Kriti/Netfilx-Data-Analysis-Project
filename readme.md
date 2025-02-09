@@ -1,4 +1,4 @@
-# Netflix Data Analytics
+# Netflix Data Analysis
 
 This repository contains a data analysis project focused on Netflix's content catalog. Using a comprehensive dataset of TV shows and movies available on Netflix up to 2021, this project explores various aspects of the streaming platform's offerings.
 
